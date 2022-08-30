@@ -19,5 +19,5 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: |
-    echo This is just a test for my self.
+    echo This is just a test for myself.
   displayName: 'Custom Test Step'
